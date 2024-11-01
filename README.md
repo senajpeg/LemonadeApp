@@ -1,3 +1,7 @@
+![Logo](https://github.com/senajpeg/LemonadeApp/blob/main/lemonade1.png?raw=true)
+
+
+
 Lemonade App
 Overview
 --------
